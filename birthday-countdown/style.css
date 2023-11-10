@@ -9,3 +9,8 @@ body {
     min-height: 100vh;
     margin: 0;
 }
+
+h1 {
+    align-items: center;
+    justify-content: center;
+}
