@@ -2,16 +2,9 @@
 
 A handful projects in HTML / JavaScript / CSS each designed to take 1 hour for someone with minimal experience
 
-# 1 - Simple Webpage
+# 1 - Simple Christmas List Webpage
 
-# 2 - Interactive To-Do List
+# 2 - Monkey with a Typewriter
 
-# 3 - Image Slider
+Eventually he will write Hamlet
 
-# 4 - Tic-Tac-Toe
-
-# 5 - Interactive Quiz
-
-# 6 - API Integration
-
-# 7 - Personal Portfolio
